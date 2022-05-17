@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "serverless-ses-forwarder",
+  "version": "0.0.1",
+  "description": "Forwarding incoming mail with SES using the Serverless Framework",
+  "repository": "ssh://git@github.com/otofu-square/serverless-ses-forwarder.git",
+  "author": "otofu-square <otofu.square@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/serverless": "3.12.5",
+    "serverless": "3.17.0"
+  }
+}
